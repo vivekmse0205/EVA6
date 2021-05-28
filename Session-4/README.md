@@ -49,8 +49,12 @@ WRITE IT AGAIN SUCH THAT IT ACHIEVES
 ## Optimal Epoch:
 19
 
-## Result:
+## Best Test Accuracy:
+99.21%
 
+## Result:
+![Accuracy](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-4/acc.png)
+![Loss](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-4/loss.png)
 
 ## Logs
 loss=0.0581904835999012 batch_id=468: 100%|██████████| 469/469 [00:11<00:00, 39.67it/s]
