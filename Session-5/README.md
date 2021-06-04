@@ -79,7 +79,13 @@ Final Model Summary
     Trainable params: 7,832
     Non-trainable params: 0
 
-Logs:
+
+## Result:
+![Accuracy](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-5/acc.png)
+![Loss](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-5/loss.png)
+
+
+## Logs:
 
 EPOCH: 11
 Loss=0.010718464851379395 Batch_id=468 Accuracy=98.99: 100%|██████████| 469/469 [00:26<00:00, 17.74it/s]
