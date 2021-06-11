@@ -1,5 +1,5 @@
 
-Session -5 Experiments
+Session -6 Experiments
 
 Step - 1
 ```
@@ -14,7 +14,12 @@ Step -3
 ```
 Train a model with Batch Norm+L1 Loss
 ```
-
+## Description:
+model.py - File which contains model that take a type of normalization as parameter and creates dynamically
+Session_6_Assignment.ipynb contains all the 3 experiments on LN,BN,GN together with their acc and loss grapth
+```python
+python model.py --norm_type LN
+```
 
 Model Summary with BN
 ----------------------------------------------------------------
@@ -52,11 +57,11 @@ Model Summary with BN
     Trainable params: 7,832
     Non-trainable params: 0
 
-
+![Different Normalization](https://machinelearningknowledge.ai/wp-content/uploads/2020/12/Batch-Normalization-vs-Layer-Normalization-in-Keras.png)
 
 ## Result:
-![Accuracy](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-5/acc.png)
-![Loss](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-5/loss.png)
+![Accuracy 3 models](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-6/acc.png)
+![Loss 3 models](https://raw.githubusercontent.com/vivekmse0205/EVA6/main/Session-6/loss.png)
 
 
 ## Team:             
